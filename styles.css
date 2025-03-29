@@ -586,6 +586,10 @@ width: 70%;
     padding: 12px 0;
 }
 
+.pricing-div:hover .div-content {
+    border: 2px solid #F28C38;
+}
+
 .div-content h3{
     font-size: 25px;
 }
@@ -632,14 +636,12 @@ width: 70%;
     transition: 0.5s;
 }
 
-.pricing-div:hover .pricing-div1-month {
-    border: 2px solid #4A1E94;
+.pricing-div:hover .div-title {
+    color: #4A1E94;
 }
-
-.pricing-div:hover .pricimg-div1-p {
-    color: #dccdf5;
+.pricing-div:hover .div-ul li{
+    color: #4A1E94;
 }
-
  
 .trainers{
     width: 100%;
@@ -826,10 +828,6 @@ color: #fff;
     padding-bottom: 50px;
 
 }
-
-
-
-
 
 .news-item {
     width: 30%;
