@@ -544,13 +544,14 @@ width: 70%;
 
 
 .pricing-container{
-    width: 80%;
+    width: 90%;
     margin: auto;
 }
 
 .pricing-divs{
     overflow: auto;
-    padding: 50px 
+    padding: 50px ;
+    margin: auto;
 }
 
 .pricing-div{
@@ -561,7 +562,7 @@ width: 70%;
     text-align: center;
     border-radius: 10px;
     position: relative;
-    margin-right: 35px;
+    margin-left: 30px;
 }
 
 .pricing-title{
@@ -658,7 +659,7 @@ width: 70%;
     background-color: rgba(0, 0, 0, 0.5);
 }
 .container-trainers{
-    width: 80%;
+    width: 90%;
     margin: auto;
 }
 .trainers-content{
@@ -704,7 +705,7 @@ color: #fff;
 }
 
 .instructors-container {
-    width: 80%;
+    width: 85%;
     margin: auto;
 }
 .inst-title {
@@ -732,7 +733,7 @@ color: #fff;
     padding: 18px 14px;
     position: relative;
     border-radius: 10px;
-    margin-right: 35px;
+    margin-left: 30px
 }
 
 
@@ -811,7 +812,7 @@ color: #fff;
     transition: 0.5s;
 }
 .news-container {
-    width: 80%;
+    width: 85%;
     margin: auto;    
     height: auto;
     overflow: auto;
@@ -838,7 +839,7 @@ color: #fff;
     border: 1px solid #A3A7FF;
     border-radius: 10px;
     position: relative;
-    margin-right: 35px;
+    margin-left: 30px;
 }
 
 .news-item:after {
